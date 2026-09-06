@@ -13,7 +13,7 @@ To build a robust technical portfolio, I am publishing one project per week.
 
 | Week | Project | Description | Stack | Status |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | **[Miller-Rabin Primality Test](lien_vers_repo_crypto)** | A probabilistic primality testing algorithm for cryptographic applications, overcoming Fermat's weaknesses against Carmichael numbers. | Python | 🟢 Done |
+| **01** | **[Miller-Rabin Primality Test](https://github.com/VianneyChaillou/miller-rabin-primality-test)** | A probabilistic primality testing algorithm for cryptographic applications, overcoming Fermat's weaknesses against Carmichael numbers. | Python | 🟢 Done |
 | **02** | **Library Management System** | A secure, multi-tiered web application managing relational data and backend business logic. | Python, Django, PostgreSQL | ⚪ Upcoming |
 | **03** | *To be announced...* | Exploring new architectural patterns or AI models. | - | ⚪ Upcoming |
 
