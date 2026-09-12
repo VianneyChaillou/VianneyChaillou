@@ -16,7 +16,7 @@ This month is dedicated to **infrastructure and portfolio structuring**. I am cu
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [**Django Library Management**](https://github.com/VianneyChaillou/django-library-management) | A secure, modular web application managing relational data and backend business logic. | Python, Django, PostgreSQL | 🟢 Completed |
+| [**Django Library Management**](https://github.com/VianneyChaillou/django-library) | A secure, modular web application managing relational data and backend business logic. | Python, Django, PostgreSQL | 🟢 Completed |
 | [**Miller-Rabin Primality Test**](https://github.com/VianneyChaillou/miller-rabin-primality-test) | A probabilistic primality testing algorithm for cryptographic applications, overcoming Fermat's weaknesses against Carmichael numbers. | Python | 🟢 Completed |
 
 ---
