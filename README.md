@@ -1,4 +1,4 @@
-# Hi there, I'm Vianney
+# Vianney Chaillou
 
 **IT Engineering Student | AI Major**
 
@@ -12,12 +12,12 @@ To build a robust technical portfolio, I am publishing one project per month.
 ### Current Focus: September 2026
 This month is dedicated to **infrastructure and portfolio structuring**. I am currently auditing, cleaning up, and publishing my core academic and personal projects with professional standards (secure environment variables, clean Git history, and comprehensive documentation).
 
-## Projects
+## 📂 Projects
 
-| Project | Description | Tech Stack | Status |
+| Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | [**Django Library Management**](https://github.com/VianneyChaillou/django-library-management) | A secure, modular web application managing relational data and backend business logic. | Python, Django, PostgreSQL | 🟢 Completed |
-| [**Miller-Rabin Primality Test**](https://github.com/VianneyChaillou/miller-rabin-primality-test) | *A probabilistic primality testing algorithm for cryptographic applications, overcoming Fermat's weaknesses against Carmichael numbers.* | Python | 🟢 Completed |
+| [**Miller-Rabin Primality Test**](https://github.com/VianneyChaillou/miller-rabin-primality-test) | A probabilistic primality testing algorithm for cryptographic applications, overcoming Fermat's weaknesses against Carmichael numbers. | Python | 🟢 Completed |
 
 ---
 
