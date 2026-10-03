@@ -27,9 +27,11 @@ With my core portfolio now fully structured, this month marks the official launc
 
 ### 🛠️ Technical Arsenal
 
-- **Languages:** Python, C++, Java 
-- **Architecture & Concepts:** Object-Oriented Design (OOP, MVC), Algorithmic Logic, Memory Management
-- **Databases & Environment:** PostgreSQL, SQL, Linux, Shell scripting
+- **Languages:** Python, C++, Java, SQL, Bash/Shell
+- **Frameworks:** Django
+- **Architecture & Concepts:** Object-Oriented Design, MVC, Algorithmic Logic, Memory Management, TDD (Test-Driven Development)
+- **Databases:** PostgreSQL, MariaDB
+- **Tools & Environment:** Git/GitHub, Linux, Docker, Maven
 
 ---
 
