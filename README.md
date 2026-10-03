@@ -9,7 +9,7 @@ To build a robust technical portfolio, I am publishing one project per month.
 
 ---
 
-### Current Focus: September 2026
+### Current Focus: October 2026
 With my core portfolio now fully structured, this month marks the official launch of my **1 Project / Month** challenge. I am currently exploring the fascinating concept of evolutionary learning. My goal is to build a visual simulation where small, autonomous entities learn to navigate and solve a maze entirely on their own—adapting and improving generation after generation without any hardcoded pathfinding rules.
 
 ## 📂 Projects
